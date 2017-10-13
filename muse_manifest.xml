@@ -1,0 +1,32 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.sokilauto.te.ua" resolutions="1x" timestamp="1507930358299">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="4114311916" ref="index"/>
+    <file name="iefonts_index.css" crc="4275055575" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="form_check.php" crc="474517188" ref="index"/>
+    <file name="form_throttle.php" crc="495784356" ref="index"/>
+    <file name="form_process.php" crc="4149049960" ref="index"/>
+    <file name="form-u333.php" crc="48280338" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="auto-1634815_1920.jpg" crc="276739273" ref="index"/>
+    <file name="phone-working-indicator_icon-iconscom_72635.png" crc="3827634246" ref="index"/>
+    <file name="mercedes-1079173_1920.jpg" crc="476962977" ref="index"/>
+    <file name="u346-17.png" crc="4170425955" ref="index"/>
+    <file name="u346-17-r.png" crc="527876656" ref="index"/>
+    <file name="u346-17-m.png" crc="4115751914" ref="index"/>
+    <file name="u346-17-fs.png" crc="3858747580" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3771412869" seo="true" mt="1507930310998" redirect="true"/>
+</manifest>
